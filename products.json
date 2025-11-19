@@ -1,0 +1,6 @@
+[
+  { "id": "p001", "name": "Susu UHT Coklat 1L", "price": 28000, "category": "Susu" },
+  { "id": "p002", "name": "Susu Bubuk Anak 800g", "price": 120000, "category": "Susu" },
+  { "id": "p003", "name": "Susu Kambing Murni 200ml", "price": 25000, "category": "Susu" },
+  { "id": "p004", "name": "Roti Tawar Gandum", "price": 15000, "category": "Roti" }
+]
